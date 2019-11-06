@@ -1,4 +1,4 @@
-# Unsupervised_Learning_2-Clustering_-evaluation-
+# Unsupervised_Learning_2-Clustering_evaluation:
 
 In this example I have worked on the grains data set containing the measurements (such as area, perimeter, 
 length, and several others) (.csv file is in the folder). This file has six dimenssional however no. of clustering can be 6 or less than 6.
